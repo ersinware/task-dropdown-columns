@@ -44,8 +44,8 @@
         setCaretToEnd()
     }
 
-    function getBadge(text) {
-        return `<span class="badge" contenteditable="false">${text}</span>`
+    function getBadge(text, value) {
+        return `<span class="badge" contenteditable="false" data-value=${value}>${text}</span>`
     }
 
     function setCaretToEnd() {
