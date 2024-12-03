@@ -1,0 +1,14 @@
+[contenteditable="true"] {
+    all: unset;
+    display: block;
+}
+
+li {
+    all: unset;
+    display: block;
+}
+
+button {
+    all: unset;
+    cursor: pointer;
+}

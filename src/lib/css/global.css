@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+.badge {
+    padding: .25rem .5rem;
+
+    background-color: rgba(70, 130, 180, 0.87);
+    color: white;
+
+    border-radius: .5rem;
+
+    font-size: .7rem;
+
+    font-weight: 700;
+}
